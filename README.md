@@ -5,7 +5,7 @@ skill.
 
 # MVP Requirement
 
-1)Landing Page for the user with login/signup option,along with Guest mode.
+1)Landing Page for the user with login/signup option,along with Guest mode.<br />
 2)User should be able to Login / Signup from the header button.
 3)User should be able to select the category for the technical quiz with different mode(Easy,Medium,Hard).
 4)By default, Hard mode will be locked.
